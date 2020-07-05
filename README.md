@@ -1,0 +1,2 @@
+# repozytorjum
+# Pierwsze repozytorium Git
